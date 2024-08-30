@@ -1,6 +1,6 @@
 #### Desenvolver o restante do CRUD para projetos e testá-lo utilizando o Insomnia.
 
-####Exo API 
+Exo API 
 
 GET - listar projetos
 http://localhost:5038/api/projetos/
