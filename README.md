@@ -67,3 +67,5 @@ https://localhost:5038/api/usuarios/
 "senha": "1234"
 }
 ```
+![Insomnia](https://github.com/diegobrl/insomniacrud-api/blob/main/Screenshot/foto002.png)
+
